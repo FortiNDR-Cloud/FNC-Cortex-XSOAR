@@ -1,0 +1,7 @@
+requests
+pytest
+pytest-mock
+requests-mock
+dateparser
+boto3
+urllib3
